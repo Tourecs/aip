@@ -1,0 +1,42 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\refint\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10)\zadanielab6\zadanielab6\obj\Debug\net8.0\ref\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\refint\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +\zadanielab6\zadanielab6\obj\Debug\net8.0\ref\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\bin\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\refint\zadanielab6.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\zadanielab6.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб6 (30.10) +-\zadanielab6\zadanielab6\obj\Debug\net8.0\ref\zadanielab6.dll
