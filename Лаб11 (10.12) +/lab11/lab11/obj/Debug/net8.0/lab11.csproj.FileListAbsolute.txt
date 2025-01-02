@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\bin\Debug\net8.0\lab11.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\bin\Debug\net8.0\lab11.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\bin\Debug\net8.0\lab11.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\bin\Debug\net8.0\lab11.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\bin\Debug\net8.0\lab11.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\refint\lab11.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\lab11.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб11 (10.12)\lab11\lab11\obj\Debug\net8.0\ref\lab11.dll
