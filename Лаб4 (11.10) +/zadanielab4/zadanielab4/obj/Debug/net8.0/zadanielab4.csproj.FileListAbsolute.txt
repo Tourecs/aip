@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\bin\Debug\net8.0\zadanielab4.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\bin\Debug\net8.0\zadanielab4.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\bin\Debug\net8.0\zadanielab4.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\bin\Debug\net8.0\zadanielab4.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\bin\Debug\net8.0\zadanielab4.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\refint\zadanielab4.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\zadanielab4.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\Лаб4 (11.10)\zadanielab4\zadanielab4\obj\Debug\net8.0\ref\zadanielab4.dll
