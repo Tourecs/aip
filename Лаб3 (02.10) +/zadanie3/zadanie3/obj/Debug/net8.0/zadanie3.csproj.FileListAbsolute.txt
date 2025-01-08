@@ -1,0 +1,14 @@
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.AssemblyInfoInputs.cache
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.AssemblyInfo.cs
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\sverl\source\repos\zadanie3\zadanie3\bin\Debug\net8.0\zadanie3.exe
+C:\Users\sverl\source\repos\zadanie3\zadanie3\bin\Debug\net8.0\zadanie3.deps.json
+C:\Users\sverl\source\repos\zadanie3\zadanie3\bin\Debug\net8.0\zadanie3.runtimeconfig.json
+C:\Users\sverl\source\repos\zadanie3\zadanie3\bin\Debug\net8.0\zadanie3.dll
+C:\Users\sverl\source\repos\zadanie3\zadanie3\bin\Debug\net8.0\zadanie3.pdb
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.dll
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\refint\zadanie3.dll
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.pdb
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\zadanie3.genruntimeconfig.cache
+C:\Users\sverl\source\repos\zadanie3\zadanie3\obj\Debug\net8.0\ref\zadanie3.dll
