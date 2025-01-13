@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\bin\Debug\net8.0\ypakovko moloka.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\bin\Debug\net8.0\ypakovko moloka.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\bin\Debug\net8.0\ypakovko moloka.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\bin\Debug\net8.0\ypakovko moloka.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\bin\Debug\net8.0\ypakovko moloka.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\refint\ypakovko moloka.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ypakovko moloka.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\ypakovko moloka\ypakovko moloka\obj\Debug\net8.0\ref\ypakovko moloka.dll
