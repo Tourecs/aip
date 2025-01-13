@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\bin\Debug\net8.0\otgadaychislo.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\bin\Debug\net8.0\otgadaychislo.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\bin\Debug\net8.0\otgadaychislo.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\bin\Debug\net8.0\otgadaychislo.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\bin\Debug\net8.0\otgadaychislo.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\refint\otgadaychislo.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\otgadaychislo.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\otgadaychislo\otgadaychislo\obj\Debug\net8.0\ref\otgadaychislo.dll
