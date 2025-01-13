@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\bin\Debug\net8.0\krest'ianin i chert.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\bin\Debug\net8.0\krest'ianin i chert.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\bin\Debug\net8.0\krest'ianin i chert.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\bin\Debug\net8.0\krest'ianin i chert.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\bin\Debug\net8.0\krest'ianin i chert.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\refint\krest'ianin i chert.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\krest'ianin i chert.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\krest'ianin i chert\krest'ianin i chert\obj\Debug\net8.0\ref\krest'ianin i chert.dll

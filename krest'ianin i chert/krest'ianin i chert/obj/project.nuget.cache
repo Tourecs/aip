@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPtuVOajKwg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sverl\\OneDrive\\Рабочий стол\\РГР\\krest'ianin i chert\\krest'ianin i chert\\krest'ianin i chert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sverl\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
+    "C:\\Users\\sverl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\sverl\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\sverl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\sverl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
