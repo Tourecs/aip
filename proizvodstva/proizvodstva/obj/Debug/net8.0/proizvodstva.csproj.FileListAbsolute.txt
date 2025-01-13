@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\bin\Debug\net8.0\proizvodstva.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\bin\Debug\net8.0\proizvodstva.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\bin\Debug\net8.0\proizvodstva.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\bin\Debug\net8.0\proizvodstva.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\bin\Debug\net8.0\proizvodstva.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\refint\proizvodstva.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\proizvodstva.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР\proizvodstva\proizvodstva\obj\Debug\net8.0\ref\proizvodstva.dll
