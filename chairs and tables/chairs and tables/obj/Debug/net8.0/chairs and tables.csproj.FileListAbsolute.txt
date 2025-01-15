@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\bin\Debug\net8.0\chairs and tables.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\bin\Debug\net8.0\chairs and tables.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\bin\Debug\net8.0\chairs and tables.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\bin\Debug\net8.0\chairs and tables.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\bin\Debug\net8.0\chairs and tables.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\refint\chairs and tables.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\chairs and tables.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\chairs and tables\chairs and tables\obj\Debug\net8.0\ref\chairs and tables.dll
