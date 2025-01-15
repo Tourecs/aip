@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\bin\Debug\net8.0\samoleti.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\bin\Debug\net8.0\samoleti.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\bin\Debug\net8.0\samoleti.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\bin\Debug\net8.0\samoleti.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\bin\Debug\net8.0\samoleti.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\refint\samoleti.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\samoleti.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы\samoleti\samoleti\obj\Debug\net8.0\ref\samoleti.dll
